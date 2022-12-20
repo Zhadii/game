@@ -193,6 +193,5 @@ while True:
         displaysurface.blit(entity.surf, entity.rect)
         entity.move()
  
-    pygame.display.update()
-    FramePerSec.tick(FPS)
+  
      
